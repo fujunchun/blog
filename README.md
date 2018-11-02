@@ -14,6 +14,7 @@
 #### WebRTC初识
 
 ### 记录
+#### Gitlab工作流思考
 #### 对前端架构的思考（代码结构、团队开发规范、版本控制）
 #### Vue中transition的实现
 #### [websocket心跳检测](articles/2018-10-22_websocket心跳检测.md)
